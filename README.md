@@ -203,6 +203,16 @@ https://accelerator.github.com
 ## Support
 
 Don't forget to leave a star ⭐️.
+## 🔧 Fork Maintainer
+
+This fork is maintained by [Neha Behare](https://github.com/neha-behare) – Computer Engineering student and passionate web developer.
+
+I forked this project to explore and learn from a real-world open-source codebase. Feel free to check out my contributions or reach out for collaboration!
+
+> 🗓️ Note: As the original repository is archived, this fork may be updated independently.
+
+---
+
 
 ## Our Pledge
 
